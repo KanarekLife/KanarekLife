@@ -23,7 +23,7 @@ Make sure to checkout [my projects](https://github.com/KanarekLife?tab=repositor
 
 [![KanarekLife's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanarekLife&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![KanarekLife's Top Langs](https://github-readme-stats.vercel.app/api?username=KanarekLife&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![KanarekLife's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=KanarekLife&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KanarekLife&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
