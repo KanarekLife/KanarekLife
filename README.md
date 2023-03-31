@@ -5,7 +5,7 @@
 
 :wave: Hi there! My name is **Stanisław Nieradko** and I'm .NET Software Developer and Computer Science student in Gdańsk, Poland.
 
-I love designing solutions and implementing them in .NET and TypeScript.
+I love designing and implementing solutions in .NET and TypeScript.
 
 ## Contact me
 
