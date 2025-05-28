@@ -1,6 +1,6 @@
 # KanarekLife (Stanisław Nieradko)
 
-:wave: Hi! My name is Stanisław Nieradko and I'm a **full-stack software engineer** with interest in **DevOps**.
+:wave: Hi! My name is Stanisław Nieradko and I'm a **Full-Stack .NET Software Engineer** with interest in **Azure** and **Kubernetes**.
 
 ## 🎓 About Me
 
@@ -9,34 +9,26 @@
 - 🌍 Enthusiastic about **cloud computing, distributed systems, and software architecture**
 - 🚀 Always learning and exploring new technologies, frameworks, and best practices
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Backend
+### 🖥️ Backend
 
-- **Primary:** .NET (C#, ASP.NET Core, Entity Framework), SQL (MSSQL, Azure SQL)
-- **Also familiar with:** Java, Rust, Node.js (TypeScript)
+- .NET (ASP.NET Core, Entity Framework Core)
+- .NET Framework (ASP.NET, Entity Framework 6)
+- SQL (T-SQL, MSSQL, Azure SQL)
+- NoSQL: Redis, Azure CosmosDB
+- Backend patterns: DDD, TDD, CQRS, Microservices, Sharding
 
-### Frontend
+### 🌐 Frontend
 
-- **Professional experience with:** Angular and AngularJS
-- **Other:** React, Svelte, Astro
-- **Strengths:** Modern web development principles, basic understanding of UX/UI best practices
+- AngularJS / Angular / React / Svelte / Astro
+- HTML / CSS / TailwindCSS / TypeScript / Node.js
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-- **Cloud Platforms:** Microsoft Azure (Web Apps, Blob Storage, Service Bus, CosmosDB, etc.)
-- **Containerization & Orchestration:** Docker, Kubernetes (self-hosted RKE2, AKS), Helm, FluxCD
-- **Infrastructure as Code & Automation:** Ansible, Terraform, Bash, PowerShell, Python
-- **CI/CD & Workflow Automation:** Azure DevOps, GitHub with GitHub Actions
-
-💡 _The technologies listed above represent the ones I have worked with the most in professional and personal projects. Given my long-standing interest in programming, I've also explored areas like mobile and desktop app development. However, I chose to exclude them here to keep the focus on the most relevant and up-to-date parts of my tech stack._
-
-## 📌 Interests & Focus Areas
-
-- **Software Architecture & Design Patterns** – Crafting scalable, maintainable applications
-- **Cloud-Native Development** – Leveraging cloud-first technologies for efficiency
-- **Automation & Efficiency** – Improving development workflows and infrastructure management
-- **Open Source** – Learning from and contributing to community-driven projects
+- Azure (AKS, Azure DevOps, GitHub Actions, Azure Pipelines)
+- Kubernetes (AKS, RKE2), Docker, Helm, Terraform, Ansible, FluxCD
+- Linux & Windows administration, scripting (Bash, PowerShell, Python)
 
 ## 📫 Get in Touch
 
