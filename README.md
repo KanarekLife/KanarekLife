@@ -1,34 +1,50 @@
 # KanarekLife (Stanisław Nieradko)
 
-:wave: Hi! My name is Stanisław Nieradko and I'm a **Full-Stack .NET Software Engineer** with interest in **Azure** and **Kubernetes**.
+:wave: Hi! My name is Stanisław Nieradko and I'm a **Backend & Platform Engineer** working with **.NET**, **Kubernetes** and **Azure**.
 
 ## 🎓 About Me
 
-- 💻 Currently working as a **.NET Software Developer** at [Aspire Systems](https://www.aspiresys.com/)
-- 🎓 Pursuing a **BSc in Computer Science** at [Gdańsk University of Technology](https://pg.edu.pl/en)
+- 💻 Currently working as a **Software Developer** at [Xelerit](https://xelerit.com/), previously at [Aspire Systems](https://www.aspiresys.com/)
+- 🎓 Pursuing an **MSc in Computer Science** at [Gdańsk University of Technology](https://pg.edu.pl/en), alongside full-time work
+- 🏅 Certified: **CKA**, **CKAD**, **Azure Solutions Architect Expert** and **DevOps Engineer Expert** - full list on [nieradko.com](https://nieradko.com/)
 - 🌍 Enthusiastic about **cloud computing, distributed systems, and software architecture**
-- 🚀 Always learning and exploring new technologies, frameworks, and best practices
+- 🤖 Introducing **agentic, spec-driven development** (Claude Code, OpenSpec) into real-world teams
+
+## 🔭 Projects
+
+- [TypstInterop](https://github.com/KanarekLife/TypstInterop) - NuGet package embedding the Typst engine (Rust core, C# API) for in-process PDF/PNG/SVG/HTML generation
+- Homelab - HA 3-node Talos Linux Kubernetes cluster on GitOps (Flux CD, SOPS) with CloudNativePG and Authentik SSO
+- Anki Card Factory - Go + React app turning Japanese vocabulary into Anki cards through a dictionary, LLM and TTS pipeline
 
 ## 🧰 Tech Stack
 
 ### 🖥️ Backend
 
-- .NET (ASP.NET Core, Entity Framework Core)
-- .NET Framework (ASP.NET, Entity Framework 6)
-- SQL (T-SQL, MSSQL, Azure SQL)
-- NoSQL: Redis, Azure CosmosDB
-- Backend patterns: DDD, TDD, CQRS, Microservices, Sharding
+- C# / .NET (ASP.NET Core, EF Core, .NET Framework), REST APIs
+- SQL Server, Azure SQL, PostgreSQL, Redis, Cosmos DB
+- Azure Service Bus
+- Backend patterns: DDD, CQRS, TDD, microservices
+- Go, Node.js (side projects)
 
 ### 🌐 Frontend
 
-- AngularJS / Angular / React / Svelte / Astro
-- HTML / CSS / TailwindCSS / TypeScript / Node.js
+- React, Angular, Astro, TypeScript, Tailwind CSS
 
 ### ☁️ Cloud & DevOps
 
-- Azure (AKS, Azure DevOps, GitHub Actions, Azure Pipelines)
-- Kubernetes (AKS, RKE2), Docker, Helm, Terraform, Ansible, FluxCD
+- Azure (App Service, AKS, Functions, Key Vault, Entra ID, Storage)
+- Kubernetes (AKS, Talos Linux), Helm, Docker
+- IaC: Terraform, OpenTofu
+- CI/CD & GitOps: GitHub Actions, Azure Pipelines, Argo CD, Argo Workflows, Kargo, Flux CD
+- Observability: OpenTelemetry, Grafana Cloud
 - Linux & Windows administration, scripting (Bash, PowerShell, Python)
+
+### 🤖 AI & Agentic Development
+
+- Agentic coding (Claude Code, Codex, OpenCode)
+- LLM integration (chatbots, pipelines)
+- Self-hosted open-weight LLMs
+- Spec-driven development (OpenSpec)
 
 ## 📫 Get in Touch
 
